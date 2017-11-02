@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/taluoo/mongoose-helper/issues"
   },
-  "homepage": "https://github.com/taluoo/mongoose-helper#readme"
+  "homepage": "https://github.com/taluoo/mongoose-helper#readme",
+  "dependencies": {
+    "mongoose": "^4.12.6"
+  }
 }
