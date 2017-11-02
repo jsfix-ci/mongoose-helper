@@ -18,5 +18,9 @@
   "homepage": "https://github.com/taluoo/mongoose-helper#readme",
   "dependencies": {
     "mongoose": "^4.12.6"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
   }
 }
