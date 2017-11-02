@@ -1,0 +1,19 @@
+{
+  "name": "@taluoo/mongoose-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taluoo/mongoose-helper.git"
+  },
+  "author": "taluoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taluoo/mongoose-helper/issues"
+  },
+  "homepage": "https://github.com/taluoo/mongoose-helper#readme"
+}
